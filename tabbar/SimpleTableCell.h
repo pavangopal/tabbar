@@ -17,5 +17,7 @@
 @property (weak, nonatomic) IBOutlet UILabel *jobExp;
 @property (weak, nonatomic) IBOutlet UILabel *jobLoc;
 @property (weak, nonatomic) IBOutlet UILabel *time;
+@property (weak, nonatomic) IBOutlet UILabel *colorHint;
+@property (weak, nonatomic) IBOutlet UIView *SimpleCell;
 
 @end
